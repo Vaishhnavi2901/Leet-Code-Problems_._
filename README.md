@@ -42,9 +42,18 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0096-unique-binary-search-trees](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0096-unique-binary-search-trees/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
