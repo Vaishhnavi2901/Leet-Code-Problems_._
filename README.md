@@ -15,4 +15,16 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0002-add-two-numbers/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0020-valid-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
