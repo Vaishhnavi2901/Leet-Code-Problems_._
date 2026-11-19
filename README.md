@@ -16,9 +16,11 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0002-add-two-numbers/) | Medium |
+| [0010-regular-expression-matching](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0010-regular-expression-matching/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0010-regular-expression-matching/) | Hard |
 | [0020-valid-parentheses](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0020-valid-parentheses/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -31,6 +33,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0010-regular-expression-matching/) | Hard |
 | [0096-unique-binary-search-trees](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0096-unique-binary-search-trees/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
