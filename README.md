@@ -12,11 +12,13 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0002-add-two-numbers/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0224-basic-calculator](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0224-basic-calculator/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0010-regular-expression-matching/) | Hard |
+| [0224-basic-calculator](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0224-basic-calculator/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,11 +26,13 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | [0010-regular-expression-matching](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0010-regular-expression-matching/) | Hard |
 | [0020-valid-parentheses](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0020-valid-parentheses/) | Easy |
 | [0097-interleaving-string](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0097-interleaving-string/) | Medium |
+| [0224-basic-calculator](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0224-basic-calculator/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0020-valid-parentheses/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0224-basic-calculator](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0224-basic-calculator/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
