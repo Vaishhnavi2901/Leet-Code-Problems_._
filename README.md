@@ -44,6 +44,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0099-recover-binary-search-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,11 +52,13 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0099-recover-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0099-recover-binary-search-tree/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,4 +73,5 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0099-recover-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
