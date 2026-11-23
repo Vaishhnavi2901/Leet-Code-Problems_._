@@ -36,6 +36,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0010-regular-expression-matching/) | Hard |
 | [0096-unique-binary-search-trees](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0120-triangle](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0120-triangle/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0120-triangle](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0120-triangle/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
