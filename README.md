@@ -8,6 +8,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0002-add-two-numbers/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0141-linked-list-cycle/) | Easy |
+| [0707-design-linked-list](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0707-design-linked-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +88,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0707-design-linked-list](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0707-design-linked-list/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
