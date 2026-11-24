@@ -63,6 +63,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | [0098-validate-binary-search-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,10 +77,12 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | [0004-median-of-two-sorted-arrays](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0120-triangle](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0120-triangle/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,4 +113,8 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/1486-xor-operation-in-an-array/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 <!---LeetCode Topics End-->
