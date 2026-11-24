@@ -79,6 +79,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0039-combination-sum](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0039-combination-sum/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0120-triangle](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0120-triangle/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -122,4 +123,8 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
