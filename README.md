@@ -13,6 +13,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0007-reverse-integer/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0224-basic-calculator](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0224-basic-calculator/) | Hard |
 | [1486-xor-operation-in-an-array](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/1486-xor-operation-in-an-array/) | Easy |
