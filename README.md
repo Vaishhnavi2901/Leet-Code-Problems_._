@@ -7,6 +7,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0002-add-two-numbers/) | Medium |
+| [0023-merge-k-sorted-lists](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0141-linked-list-cycle/) | Easy |
 | [0707-design-linked-list](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0707-design-linked-list/) | Medium |
 ## Math
@@ -89,6 +90,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0023-merge-k-sorted-lists](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Depth-First Search
@@ -134,4 +136,16 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0054-spiral-matrix/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
