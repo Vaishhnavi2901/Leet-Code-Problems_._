@@ -85,6 +85,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0039-combination-sum/) | Medium |
 | [0054-spiral-matrix](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0054-spiral-matrix/) | Medium |
+| [0078-subsets](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0078-subsets/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0120-triangle](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0120-triangle/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -129,6 +130,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0078-subsets/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Matrix
@@ -140,6 +142,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0039-combination-sum/) | Medium |
+| [0078-subsets](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0078-subsets/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
