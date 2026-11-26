@@ -16,6 +16,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0009-palindrome-number/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0224-basic-calculator](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0224-basic-calculator/) | Hard |
 | [0342-power-of-four](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0342-power-of-four/) | Easy |
