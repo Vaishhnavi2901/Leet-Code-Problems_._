@@ -17,6 +17,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | [0002-add-two-numbers](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0013-roman-to-integer/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0224-basic-calculator](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0224-basic-calculator/) | Hard |
 | [0342-power-of-four](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0342-power-of-four/) | Easy |
@@ -37,6 +38,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | [0006-zigzag-conversion](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0010-regular-expression-matching/) | Hard |
+| [0013-roman-to-integer](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0020-valid-parentheses/) | Easy |
 | [0097-interleaving-string](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0097-interleaving-string/) | Medium |
 | [0224-basic-calculator](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0224-basic-calculator/) | Hard |
@@ -142,6 +144,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0141-linked-list-cycle/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
