@@ -92,6 +92,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | [0078-subsets](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0078-subsets/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0120-triangle](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0120-triangle/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -204,4 +205,8 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0207-course-schedule/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
