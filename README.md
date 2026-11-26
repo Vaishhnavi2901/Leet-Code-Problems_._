@@ -37,6 +37,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0020-valid-parentheses/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0224-basic-calculator](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0224-basic-calculator/) | Hard |
 ## Bracket Sequences
@@ -57,6 +58,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | [0098-validate-binary-search-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0173-binary-search-tree-iterator/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -77,6 +79,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | [0098-validate-binary-search-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0173-binary-search-tree-iterator/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -104,6 +107,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
