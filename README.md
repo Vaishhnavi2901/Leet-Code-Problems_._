@@ -18,6 +18,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | [0007-reverse-integer](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0007-reverse-integer/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0224-basic-calculator](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0224-basic-calculator/) | Hard |
+| [0754-reach-a-number](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0754-reach-a-number/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Recursion
@@ -76,6 +77,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | [0173-binary-search-tree-iterator](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0754-reach-a-number](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0754-reach-a-number/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
