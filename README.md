@@ -103,6 +103,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | [0238-product-of-array-except-self](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0724-find-pivot-index](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0724-find-pivot-index/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -221,4 +222,5 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0724-find-pivot-index](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
