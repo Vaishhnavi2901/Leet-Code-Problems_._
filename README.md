@@ -78,6 +78,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0754-reach-a-number](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0754-reach-a-number/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +105,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0724-find-pivot-index](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0724-find-pivot-index/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
