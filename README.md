@@ -115,6 +115,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | [0724-find-pivot-index](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0724-find-pivot-index/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,6 +237,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0724-find-pivot-index/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
