@@ -32,6 +32,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0010-regular-expression-matching/) | Hard |
 | [0020-valid-parentheses](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0020-valid-parentheses/) | Easy |
@@ -51,6 +52,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0010-regular-expression-matching/) | Hard |
 | [0096-unique-binary-search-trees](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0097-interleaving-string](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0097-interleaving-string/) | Medium |
@@ -142,6 +144,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0141-linked-list-cycle/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Floyd's Cycle Finding Algorithm
@@ -228,4 +231,8 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0724-find-pivot-index/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
