@@ -108,6 +108,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | [0098-validate-binary-search-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0207-course-schedule](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0207-course-schedule/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,4 +185,20 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0207-course-schedule/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0207-course-schedule/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
