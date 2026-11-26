@@ -60,6 +60,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +82,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +113,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | [0099-recover-binary-search-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0207-course-schedule](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0207-course-schedule/) | Medium |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +142,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | ------- | ------- |
 | [0078-subsets](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0078-subsets/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -193,6 +197,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0207-course-schedule/) | Medium |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
