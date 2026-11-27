@@ -18,6 +18,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | [0007-reverse-integer](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0013-roman-to-integer/) | Easy |
+| [0070-climbing-stairs](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0224-basic-calculator](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0224-basic-calculator/) | Hard |
 | [0342-power-of-four](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0342-power-of-four/) | Easy |
@@ -58,6 +59,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0010-regular-expression-matching/) | Hard |
+| [0070-climbing-stairs](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0097-interleaving-string](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0097-interleaving-string/) | Medium |
 | [0120-triangle](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0120-triangle/) | Medium |
@@ -242,4 +244,8 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
