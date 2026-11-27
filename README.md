@@ -134,6 +134,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | [0099-recover-binary-search-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0207-course-schedule](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0207-course-schedule/) | Medium |
+| [0743-network-delay-time](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0743-network-delay-time/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -188,6 +189,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0743-network-delay-time](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0743-network-delay-time/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -221,11 +223,13 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0207-course-schedule/) | Medium |
+| [0743-network-delay-time](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0743-network-delay-time/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0207-course-schedule/) | Medium |
+| [0743-network-delay-time](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0743-network-delay-time/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,4 +252,12 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0070-climbing-stairs/) | Easy |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0743-network-delay-time/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
