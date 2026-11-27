@@ -63,6 +63,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | [0096-unique-binary-search-trees](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0097-interleaving-string](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0097-interleaving-string/) | Medium |
 | [0120-triangle](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0120-triangle/) | Medium |
+| [0198-house-robber](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0198-house-robber/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +112,7 @@ My LeetCode solutions in Python, covering Data Structures and Algorithms (DSA). 
 | [0078-subsets](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0078-subsets/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0120-triangle](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0120-triangle/) | Medium |
+| [0198-house-robber](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0198-house-robber/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Vaishhnavi2901/Leet-Code-Problems_._/tree/main/0287-find-the-duplicate-number/) | Medium |
